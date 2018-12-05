@@ -1,0 +1,6 @@
+Installation guide
+------------------
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tempor pretium urna sed pellentesque. Maecenas tempus in erat vitae congue. Vivamus eu nunc id quam ornare condimentum eget in orci. Vivamus fringilla risus quis ullamcorper placerat. Maecenas pellentesque interdum nunc placerat ullamcorper. In hac habitasse platea dictumst. Nullam in gravida lorem. Nam massa tellus, bibendum id erat id, consectetur fermentum ante. Nam suscipit felis justo, vel luctus augue cursus in. Fusce eu quam id ligula vulputate elementum. Praesent mattis, nisi et vulputate sollicitudin, justo sem finibus justo, ut imperdiet augue nibh at nisl. Proin cursus sodales nibh ac condimentum. Sed sagittis pulvinar euismod. In hac habitasse platea dictumst.
+
+Donec sed ex iaculis, ornare tellus in, egestas leo. Quisque maximus sit amet velit in gravida. Maecenas nec orci vel elit tempus vehicula. In hac habitasse platea dictumst. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eget sollicitudin orci, sed imperdiet velit. Nullam porta nunc in neque maximus rutrum. Suspendisse potenti. Nullam in hendrerit ex. Phasellus in egestas mi. Praesent bibendum dignissim mi, eu mollis augue interdum non.
